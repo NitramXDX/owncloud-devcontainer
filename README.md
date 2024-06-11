@@ -1,1 +1,1 @@
-# Initial Owncloud dockerizing project
+# Initial Owncloud dockerized project
