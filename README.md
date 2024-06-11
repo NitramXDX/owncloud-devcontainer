@@ -1,1 +1,1 @@
-# owncloud-testing
+# Initial Owncloud dockerizing project
